@@ -1,0 +1,39 @@
+/* fallback */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/material-icon.woff2') format('woff2');
+    font-display: swap;
+}
+  
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: bottom;
+    font-display: swap;
+}
+
+/* montserrat-regular - latin */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url('/fonts/montserrat-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Montserrat Regular'), local('Montserrat-Regular'),
+         url('/fonts/montserrat-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/fonts/montserrat-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/montserrat-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/montserrat-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/montserrat-v15-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+}

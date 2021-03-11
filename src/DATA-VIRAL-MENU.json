@@ -1,0 +1,31 @@
+{
+  "virals": [
+    {
+      "id": "m6c7bqjgi84kcowlqdz",
+      "name": "Limosin Sirloin Steak",
+      "description": "Lorem ipsum dolor sit amet, consectetuer.",
+      "pictureId": "/img/hero-image_2.jpg",
+      "price": 85000,
+      "rating": 4.8,
+      "category": "food"
+    },
+    {
+      "id": "mljx8i0qu2uckcowlqdz",
+      "name": "Kopi Janji Kita",
+      "description": "Lorem ipsum dolor sit amet, consectetuer",
+      "pictureId": "/img/hero-image_2.jpg",
+      "price": 13000,
+      "rating": 4.8,
+      "category": "drink"
+    },
+    {
+      "id": "mfe8bbxoazddkcowlqdz",
+      "name": "Odading Mang Oleh",
+      "description": "Lorem ipsum dolor sit amet, consectetuer varius laoreet.",
+      "pictureId": "/img/hero-image_2.jpg",
+      "price": 5000,
+      "rating": 4.8,
+      "category": "food"
+    }
+  ]
+}
